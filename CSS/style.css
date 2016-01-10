@@ -1,0 +1,39 @@
+body{
+		padding-top: 80px;
+		font-family: Arial
+	}
+	h2{font-size: 50px;}
+a{text-decoration: none;}
+a:visited{color:#bb020A;}
+
+
+	nav ul li {
+		color: #E84D44;
+		display: inline-block;
+		border: 3px solid #999;
+		border-radius: 10px;
+		padding: 10px 20px;
+		margin: 10px 20px;
+		background: #999;
+}
+nav ul li:hover {background-color: #ff0011;}
+	nav{
+		text-align: center;
+		width: 100%;
+		position: fixed;
+		top: 0;
+		left: 0;
+	}
+	
+	.tab-active {
+		background-color: black
+	}
+	.purple { color:purple;}
+	.Centertext {text-align:center;}
+	.lefttext {text-align: left;}
+	.Lalastye {background-color: #ffffff;font-family: Arial}
+	.lll {font-weight:normal; color: purple; font-family: Arial;}
+	.container{max-width: 500px;
+		margin-left:auto;
+		margin-right: auto;
+	}
